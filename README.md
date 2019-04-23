@@ -16,6 +16,6 @@ Examples of using the full ANSI-SQL capabilities of PrestoDB for examples from: 
 
 
 ### Equivalent Window Function support: PrestoDB, MySQL, PostgreSQL
-- PrestoDB: https://prestodb.io/docs/current/functions/window.html
+- PrestoDB: https://prestosql.io/docs/current/functions/window.html
 - MySQL: https://dev.mysql.com/doc/refman/8.0/en/window-functions.html
 - PostgreSQL: https://www.postgresql.org/docs/current/static/tutorial-window.html
